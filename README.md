@@ -12,9 +12,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Data Structures.
-- 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on Java and python projects.
+- 🔭 I’m currently working on AI and Data Science.
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m looking to collaborate on AI and ML projects.
 - 🤔 I’m looking for help with kickstarting my career.
 - 💬 Ask me about my technical journey.
 - 📫 How to reach me: <a href="https://www.maantechnical.com/" target="_blank" rel="noopener">Here</a>
