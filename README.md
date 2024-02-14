@@ -17,4 +17,4 @@
 - 👯 I’m looking to collaborate on AI and ML projects.
 - 🤔 I’m looking for help with kickstarting my career.
 - 💬 Ask me about my technical journey.
-- 📫 How to reach me: <a href="https://www.maantechnical.com/" target="_blank" rel="noopener">Here</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/japleenkaur20/" target="_blank" rel="noopener">Here</a>
